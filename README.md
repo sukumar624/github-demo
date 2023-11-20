@@ -1,2 +1,3 @@
-# github-demo
-This is first demo project
+# GitHub-demo
+This is the first demo project
+Author - Sukumar Majhi
